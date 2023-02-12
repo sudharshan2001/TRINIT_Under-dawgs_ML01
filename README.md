@@ -4,6 +4,14 @@ weights can be downloaded from link below and put them in the same folder as tri
 
 https://drive.google.com/file/d/12DYiGZNtz8UMtqma3XSBec44WDwZsOD1/view?usp=share_link
 
+# Requirements
+
+matplotlib>=2.2.4
+numpy>=1.16.3
+librosa>=0.6.3
+pescador>=2.0.1
+torch>=1.1.0
+tqdm>=4.32.1
 
 # Approach
 
