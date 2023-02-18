@@ -14,6 +14,14 @@ torch>=1.1.0
 tqdm>=4.32.1
 IPython
 ```
+
+# Problem Statement
+
+1. Develop a generative model that can create synthetic speech
+samples for underrepresented languages and dialects.
+
+2. The model should be able to generate speech samples for both male and female speakers and for different age groups.
+
 # Approach
 
 The language we chose for the audio synthesis is Tamil and we utilized the dataset from Open SLR-Crowdsourced high-quality Tamil multi-speaker speech data set.
